@@ -1,0 +1,6 @@
+name: linear_regression_live
+dependencies:
+- python=3.6
+
+
+
